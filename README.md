@@ -55,6 +55,10 @@ A Simple Code In Javascript to Mint and List the NFT's We've created and display
 
     getTotalSupply();
 
+A code walkthrough video link:
 
- 
+<a href="https://www.loom.com/share/daa040160d9b429492fad5b2318b0a49">
+    <p>Code Walkthrough: Minting and Listing NFTs 🎥 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/daa040160d9b429492fad5b2318b0a49-with-play.gif">
+  </a>
  
